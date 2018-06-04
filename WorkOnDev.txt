@@ -1,2 +1,2 @@
 this is a Dev File!
-I add a new line!
+I add a new line! add conflict fixed!
