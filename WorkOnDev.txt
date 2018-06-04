@@ -1,2 +1,3 @@
 this is a Dev File!
 I add a new line! add conflict fixed!
+So i add a new line too!
